@@ -3,7 +3,8 @@ I'm Josh Hedstrom. I'm a full stack software engineer with a strong focus on the
 
 - ⚛️ React is my jam, 🪝 hooks are my fav. 
 - 🔮 I have seen the future, and it's Module Federation and blazing fast. 🚀
-- 🛠 I've got a lot of experience in ES6 but I always default to TypeScript when I can. 
+- 🛠 I've got a lot of experience in ES6 but I always default to TypeScript when I can.
+- 🔒 I'm a cybersecurity zealot. I believe that web application security should be a priority on all levels of an application.
 - 💻 I'm passionate about testing and documentation and getting coding standards enforced from the very start of the dev process. 
 - ✨ I strive towards code that is testable, maintainable, readable, and well-documented.
 
@@ -40,21 +41,3 @@ AWS | GCP | Azure
 - 🚀 Kanban. I love it, because it forces prioritization and removes arbitrary deadlines, thus the relationship between the dev and the product manager/owner is improved.
 - 🛠 Expectations. Typescript and 100% test coverage won't save you from bad code. They are tools to write and enforce better code, but in an ever changing tech landscape, code needs to be malleable and dynamic. We strive for the best code possible, not perfect code.
 - 🌴 Work/Life balance. We still live analog lives. Work hard, and have regularly scheduled times to turn off notifications, put away the phone and laptop, and breathe fresh air. Work is not who we are, it's what we do, but it's not all we do and shouldn't be all we do.
-
-
-
-
-<!--
-**joshhedstrom/joshhedstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
