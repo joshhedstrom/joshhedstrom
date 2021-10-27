@@ -5,7 +5,7 @@ I'm Josh Hedstrom. I'm a full stack software engineer with a strong focus on the
 - 🔮 I have seen the future, and it's Module Federation and blazing fast. 🚀
 - 🛠 I've got a lot of experience in ES6 but I always default to TypeScript when I can.
 - 🔒 I'm a cybersecurity zealot. I believe that web application security should be a priority on all levels of an application.
-- 💻 I'm passionate about testing and documentation and getting coding standards enforced from the very start of the dev process. 
+- 💻 I'm passionate about testing and documentation and enforcing coding standards from the very start of the dev process. 
 - ✨ I strive towards code that is testable, maintainable, readable, and well-documented.
 
 Previously @Lowes(/pd) and @RSI
