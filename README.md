@@ -32,7 +32,7 @@ AWS | GCP | Azure
 
 ```
 
-### Philosophies and Paradigms 🌳
+<!-- ### Philosophies and Paradigms 🌳
 
 - 👋 Communication. It's my #1 skill and passion. Over communcation, especially with remote teams, is rare.
 - 🎧 Focus. Devs should be expected to have regularly scheduled focus times free from meetings and email/slack/teams notifications.
@@ -40,4 +40,4 @@ AWS | GCP | Azure
 - 💻 Developer Autonomy. Let the dev work. Be anti-micromanagement. Communicate (thoughtfully) always and don't assume the worst about your developers.
 - 🚀 Kanban. I love it, because it forces prioritization and removes arbitrary deadlines, thus the relationship between the dev and the product manager/owner is improved.
 - 🛠 Expectations. Typescript and 100% test coverage won't save you from bad code. They are tools to write and enforce better code, but in an ever changing tech landscape, code needs to be malleable and dynamic. We strive for the best code possible, not perfect code.
-- 🌴 Work/Life balance. We still live analog lives. Work hard, and have regularly scheduled times to turn off notifications, put away the phone and laptop, and breathe fresh air. Work is not who we are, it's what we do, but it's not all we do and shouldn't be all we do.
+- 🌴 Work/Life balance. We still live analog lives. Work hard, and have regularly scheduled times to turn off notifications, put away the phone and laptop, and breathe fresh air. Work is not who we are, it's what we do, but it's not all we do and shouldn't be all we do. -->
