@@ -15,7 +15,7 @@ Previously @Lowes(/pd) and @RSI
 ### 🌻 Frontend Tech I've worked with:
 ```
 ES6 | Typescript
-React | Angular | | Vue | Next.js
+React | Angular | Vue | Next.js
 React Hooks | Recoil | Redux
 Cypress | Jest | Mocha | Chai | Enzyme
 Bootstrap | material-ui | CSS | SCSS
