@@ -1,5 +1,5 @@
 ### Hey 🍃
-I'm Josh Hedstrom. I'm a full stack software engineer with a strong focus on the frontend. 
+I'm Josh Hedstrom. I'm a senior full stack software engineer with a strong focus on the frontend. 
 
 - ⚛️ React is my jam, 🪝 hooks are my fav. 
 - 🔮 I have seen the future, and it's Module Federation and blazing fast. 🚀
