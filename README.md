@@ -1,7 +1,7 @@
 ### Hey 🍃
 I'm Josh Hedstrom. I'm a senior full stack software engineer with a strong focus on the frontend. 
 
-- ⚛️ React is my jam, 🪝 hooks are my fav. 
+- ⚛️ React is my jam, 🪝 hooks are my favorite thing. 
 - 🔮 I have seen the future, and it's Module Federation and blazing fast. 🚀
 - 🛠 I've got a lot of experience in ES6 but I always default to TypeScript when I can.
 - 🔒 I'm a cybersecurity zealot. I believe that web application security should be a priority on all levels of an application.
