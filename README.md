@@ -24,7 +24,7 @@ Bootstrap | material-ui | CSS | SCSS
 
 ### 🛠 Backend Tech I've worked with: 
 ```
-ES6 | TypeScript | Java | Ruby
+ES6 | TypeScript | Python | Java | Ruby
 Express.js | Spring | Rails
 MySQL | Postgres | Oracle
 Mocha | Chai
