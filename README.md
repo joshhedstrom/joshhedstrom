@@ -1,14 +1,9 @@
 ### Hey 🍃
-I'm Josh Hedstrom. I'm a senior full stack software engineer with a strong focus on the frontend. 
+I'm Josh Hedstrom. I was a senior full stack software engineer with a strong focus on the frontend, and now I'm an accomplished Engineering Manager with proven experience of leading teams through complex technical modernization and transformation. I've architected and implemented cutting-edge, composable tech stacks that drive business agility and scalability. 
 
-- ⚛️ React is my jam, 🪝 hooks are my favorite thing. 
-- 🔮 I have seen the future, and it's Module Federation and blazing fast. 🚀
-- 🛠 I've got a lot of experience in ES6 but I always default to TypeScript when I can.
-- 🔒 I'm a cybersecurity zealot. I believe that web application security should be a priority on all levels of an application.
-- 💻 I'm passionate about testing and documentation and enforcing coding standards from the very start of the dev process. 
-- ✨ I strive towards code that is testable, maintainable, readable, and well-documented.
+My leadership approach combines quick delivery with clear communication across all organizational levels. I've successfully orchestrated cross-functional initiatives spanning multiple departments to deliver mission critical projects. I lead agile, fast moving teams that ship modern products to serve as a catalyst for business growth.
 
-Previously @Lowes(/pd) and @RSI
+Previously @Lowes(/pdp & paint) and @RSI
 
 - - - - 
 
@@ -18,7 +13,7 @@ ES6 | Typescript
 React | Angular | Vue | Next.js
 React Hooks | Recoil | Redux
 Cypress | Jest | Mocha | Chai | Enzyme
-Bootstrap | material-ui | CSS | SCSS
+Bootstrap | material-ui | CSS | SCSS | Tailwind
 
 ```
 
