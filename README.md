@@ -1,17 +1,18 @@
 ### Hey 🍃
 I'm Josh Hedstrom. I was a senior full stack software engineer with a strong focus on the frontend, and now I'm an accomplished Engineering Manager with proven experience of leading teams through complex technical modernization and transformation. I've architected and implemented cutting-edge, composable tech stacks that drive business agility and scalability. 
 
-My leadership approach combines quick delivery with clear communication across all organizational levels. I've successfully orchestrated cross-functional initiatives spanning multiple departments to deliver mission critical projects. I lead agile, fast moving teams that ship modern products to serve as a catalyst for business growth.
+I lead with rapid execution and clear communication across all organizational levels. I've successfully orchestrated cross-department initiatives to deliver business critical projects. I lead agile, fast moving teams that ship modern products to serve as a catalyst for business growth.
 
-Previously @Lowes(/pdp & paint) and @RSI
+Previously @Lowes(pdp & paint) and @RSI
 
 - - - - 
 
 ### 🌻 Frontend Tech I've worked with:
 ```
+BigCommerce | Shopify
 ES6 | Typescript
-React | Angular | Vue | Next.js
-React Hooks | Recoil | Redux
+React | Next.js | Angular | Vue
+React Hooks | Recoil | Redux | xState
 Cypress | Jest | Mocha | Chai | Enzyme
 Bootstrap | material-ui | CSS | SCSS | Tailwind
 
