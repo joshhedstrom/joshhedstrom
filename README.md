@@ -1,4 +1,3 @@
-### Hey 🍃
 I'm Josh Hedstrom. I was a senior full stack software engineer with a strong focus on the frontend, and now I'm an accomplished Engineering Manager with proven experience of leading teams through complex technical modernization and transformation. I've architected and implemented cutting-edge, composable tech stacks that drive business agility and scalability. 
 
 I lead with rapid execution and clear communication across all organizational levels. I've successfully orchestrated cross-department initiatives to deliver business critical projects. I lead agile, fast moving teams that ship modern products to serve as a catalyst for business growth.
