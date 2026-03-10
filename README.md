@@ -1,9 +1,9 @@
-I'm Josh Hedstrom. I was a senior full stack software engineer with a strong focus on the frontend, and now I'm an accomplished Engineering Manager with proven experience of leading teams through complex technical modernization and transformation. I've architected and implemented cutting-edge, composable tech stacks that drive business agility and scalability. 
+I'm Josh Hedstrom. I'm an accomplished Director of Ecommerce Engineering with proven experience in leading teams through complex technical modernization and transformation. I've architected and implemented cutting-edge, composable tech stacks that drive business agility and scalability. 
 
-I lead with rapid execution and clear communication across all organizational levels. I've successfully orchestrated cross-department initiatives to deliver business critical projects. I lead agile, fast moving teams that ship modern products to serve as a catalyst for business growth.
+I lead with rapid execution and clear communication across all organizational levels. I've successfully orchestrated cross-department initiatives to deliver business-critical projects. I lead agile, fast-moving teams that ship modern products to serve as a catalyst for business growth.
 
-Previously @Lowes(pdp & paint) and @RSI
-
+Previously @MarucciSports, @Lowes(pdp & paint) and @RSI
+<!--
 - - - - 
 
 ### 🌻 Frontend Tech I've worked with:
@@ -27,7 +27,7 @@ AWS | GCP | Azure
 
 ```
 
-<!-- ### Philosophies and Paradigms 🌳
+### Philosophies and Paradigms 🌳
 
 - 👋 Communication. It's my #1 skill and passion. Over communcation, especially with remote teams, is rare.
 - 🎧 Focus. Devs should be expected to have regularly scheduled focus times free from meetings and email/slack/teams notifications.
